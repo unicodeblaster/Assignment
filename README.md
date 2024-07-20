@@ -1,6 +1,6 @@
 Todo Assignment
 
-This is a React-based Todo List application that allows users to add, remove, and mark tasks as completed.
+This is a React-based Todo List application that allows users to add, remove, and mark tasks as completed
 
 Features:
 
